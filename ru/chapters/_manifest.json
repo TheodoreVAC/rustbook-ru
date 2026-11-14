@@ -1,0 +1,101 @@
+[
+ {
+  "file": "00-front-matter.md",
+  "parts": 1,
+  "headings": 4,
+  "code_blocks": 0,
+  "figures": 0,
+  "tables": 0,
+  "chars": 10942
+ },
+ {
+  "file": "01-rust-basics.md",
+  "parts": 6,
+  "headings": 24,
+  "code_blocks": 133,
+  "figures": 11,
+  "tables": 0,
+  "chars": 107553
+ },
+ {
+  "file": "02-computer-science.md",
+  "parts": 1,
+  "headings": 8,
+  "code_blocks": 1,
+  "figures": 2,
+  "tables": 0,
+  "chars": 10054
+ },
+ {
+  "file": "03-algorithm-analysis.md",
+  "parts": 1,
+  "headings": 13,
+  "code_blocks": 12,
+  "figures": 1,
+  "tables": 3,
+  "chars": 28038
+ },
+ {
+  "file": "04-data-structures.md",
+  "parts": 8,
+  "headings": 26,
+  "code_blocks": 48,
+  "figures": 20,
+  "tables": 7,
+  "chars": 90173
+ },
+ {
+  "file": "05-recursion.md",
+  "parts": 1,
+  "headings": 12,
+  "code_blocks": 22,
+  "figures": 4,
+  "tables": 0,
+  "chars": 31561
+ },
+ {
+  "file": "06-search.md",
+  "parts": 6,
+  "headings": 17,
+  "code_blocks": 21,
+  "figures": 7,
+  "tables": 2,
+  "chars": 45765
+ },
+ {
+  "file": "07-sorting.md",
+  "parts": 14,
+  "headings": 15,
+  "code_blocks": 50,
+  "figures": 18,
+  "tables": 1,
+  "chars": 88063
+ },
+ {
+  "file": "08-trees.md",
+  "parts": 6,
+  "headings": 20,
+  "code_blocks": 60,
+  "figures": 9,
+  "tables": 3,
+  "chars": 89901
+ },
+ {
+  "file": "09-graphs.md",
+  "parts": 10,
+  "headings": 26,
+  "code_blocks": 64,
+  "figures": 58,
+  "tables": 1,
+  "chars": 91250
+ },
+ {
+  "file": "10-practice.md",
+  "parts": 9,
+  "headings": 17,
+  "code_blocks": 56,
+  "figures": 8,
+  "tables": 2,
+  "chars": 77493
+ }
+]

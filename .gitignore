@@ -1,0 +1,23 @@
+# Rust build artefacts
+target/
+**/target/
+*.rlib
+*.rmeta
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Editors / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Temporary extraction artefacts
+tools/extract/*/p*.txt
+tools/preview/

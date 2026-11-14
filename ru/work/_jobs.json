@@ -1,0 +1,131 @@
+[
+ {
+  "chapter": "00-front-matter",
+  "parts": [
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\00-front-matter\\part-001.md"
+  ],
+  "size": 10476
+ },
+ {
+  "chapter": "01-rust-basics",
+  "parts": [
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\01-rust-basics\\part-001.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\01-rust-basics\\part-002.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\01-rust-basics\\part-003.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\01-rust-basics\\part-004.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\01-rust-basics\\part-005.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\01-rust-basics\\part-006.md"
+  ],
+  "size": 103852
+ },
+ {
+  "chapter": "02-computer-science",
+  "parts": [
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\02-computer-science\\part-001.md"
+  ],
+  "size": 10084
+ },
+ {
+  "chapter": "03-algorithm-analysis",
+  "parts": [
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\03-algorithm-analysis\\part-001.md"
+  ],
+  "size": 27255
+ },
+ {
+  "chapter": "04-data-structures",
+  "parts": [
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\04-data-structures\\part-001.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\04-data-structures\\part-002.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\04-data-structures\\part-003.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\04-data-structures\\part-004.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\04-data-structures\\part-005.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\04-data-structures\\part-006.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\04-data-structures\\part-007.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\04-data-structures\\part-008.md"
+  ],
+  "size": 90937
+ },
+ {
+  "chapter": "05-recursion",
+  "parts": [
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\05-recursion\\part-001.md"
+  ],
+  "size": 32386
+ },
+ {
+  "chapter": "06-search",
+  "parts": [
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\06-search\\part-001.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\06-search\\part-002.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\06-search\\part-003.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\06-search\\part-004.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\06-search\\part-005.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\06-search\\part-006.md"
+  ],
+  "size": 46529
+ },
+ {
+  "chapter": "07-sorting",
+  "parts": [
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\07-sorting\\part-001.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\07-sorting\\part-002.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\07-sorting\\part-003.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\07-sorting\\part-004.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\07-sorting\\part-005.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\07-sorting\\part-006.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\07-sorting\\part-007.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\07-sorting\\part-008.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\07-sorting\\part-009.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\07-sorting\\part-010.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\07-sorting\\part-011.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\07-sorting\\part-012.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\07-sorting\\part-013.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\07-sorting\\part-014.md"
+  ],
+  "size": 86069
+ },
+ {
+  "chapter": "08-trees",
+  "parts": [
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\08-trees\\part-001.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\08-trees\\part-002.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\08-trees\\part-003.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\08-trees\\part-004.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\08-trees\\part-005.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\08-trees\\part-006.md"
+  ],
+  "size": 90869
+ },
+ {
+  "chapter": "09-graphs",
+  "parts": [
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\09-graphs\\part-001.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\09-graphs\\part-002.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\09-graphs\\part-003.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\09-graphs\\part-004.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\09-graphs\\part-005.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\09-graphs\\part-006.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\09-graphs\\part-007.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\09-graphs\\part-008.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\09-graphs\\part-009.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\09-graphs\\part-010.md"
+  ],
+  "size": 94040
+ },
+ {
+  "chapter": "10-practice",
+  "parts": [
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\10-practice\\part-001.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\10-practice\\part-002.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\10-practice\\part-003.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\10-practice\\part-004.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\10-practice\\part-005.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\10-practice\\part-006.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\10-practice\\part-007.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\10-practice\\part-008.md",
+   "C:\\Users\\Admin\\Documents\\RustBook-RU\\ru\\work\\10-practice\\part-009.md"
+  ],
+  "size": 78170
+ }
+]

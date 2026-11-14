@@ -1,0 +1,177 @@
+3	Preface
+10	Rust Basic
+  10	Objectives
+  10	Install Rust and its Toolchain
+  11	Learning Resources
+    11	Books and Documents
+    11	Related Topics
+    11	Community and Blogs
+  12	Review
+    12	The History of Rust
+    13	Keywords, Comments, Naming conventions
+    15	Constants, Variables, Data Type
+    19	Statement, Expression, Computors and Flow Control
+    22	Function, Program Structure
+    24	Ownership, Scope, Lifetime
+    28	Generic, Trait
+    30	Enum and Match
+    32	Functional Programming
+    35	Smart Pointer
+    41	Exception
+    43	Macro
+    44	Code Organization and Dependency
+    46	Project: a password generator
+  53	Summary
+54	Computer Science
+  54	Objectives
+  54	Getting Started
+  54	What is Computer Science?
+  55	What is Programming?
+  56	Why Study Data Structures and Abstract Data Types?
+  56	Why Study Algorithms?
+  57	Summary
+58	Algorithm Analysis
+  58	Objectives
+  58	What is Algorithm Analysis?
+  60	Big-O Notation Analysis
+  63	Anagram Detection
+    63	Brute Force
+    63	Checking Off
+    65	Sort and Compare
+    66	Count and Compare
+  67	Performance of Rust Data Structures
+    67	Scalar and Complex Data Structures
+    67	Collection Data Structures
+  68	Summary
+69	Basic Data Structures
+  69	Objectives
+  69	Linear Structures
+  69	Stack
+    71	The Stack Abstract Data Type
+    71	Implemeting a Stack in Rust
+    75	Simple Balanced Parentheses
+    79	Converting Decimal Numbers to Binary Numbers
+    81	Prefix, Infix, Postfix Expressions
+    83	Conversion of Infix Expressions to Prefix and Postfix
+  89	Queue
+    89	The Queue Abstract Data Type
+    90	Implementing a Queue in Rust
+    93	Hot Potato
+  94	Deque
+    95	The Deque Abstract Data Type
+    96	Implementing a Deque in Rust
+    100	Palindrome Checker
+  101	LinkedList
+    101	The LinkedList Abstract Data Type
+    102	Implementing a LinkedList in Rust
+    106	LinkedList Stack
+  110	Vec
+    110	The Vec Abstract Data Type
+    110	Implementing a Vec in Rust
+  116	Summary
+117	Recursion
+  117	Objectives
+  117	What is Recursion?
+    119	The Three Laws of Recursion
+    120	Converting an Integer to a String in Any Base
+    122	Tower of Hanoi
+  123	Tail Recursion
+    124	Recursion VS Iteration
+  125	Dynamic Programming
+    128	What is Dynamic Programming?
+    130	Dynamic Programming VS Recursion
+  131	Summary
+132	Searching
+  132	Objectives
+  132	What is Searching?
+  132	The Sequential Search
+    133	Implementing an Sequential Search in Rust
+    134	Analysis of Sequential Search
+  136	The Binary Search
+    136	Implementing a Binary Search
+    138	Analysis of Binary Search
+    139	The Interpolation Search
+    140	The Exponential Search
+  141	The Hash Search
+    142	Hash Functions
+    144	Collison Resolution
+    146	Implementing a HashMap in Rust
+    152	Analysis of HashMap
+  153	Summary
+154	Sorting
+  154	Objectives
+  154	What is Sorting?
+  155	The Bubble Sort
+  160	The Quick Sort
+  164	The Insertion Sort
+  167	The Shell Sort
+  168	The Merge Sort
+  171	The Selection Sort
+  172	The Heap Sort
+  175	The Bucket Sort
+  178	The Counting Sort
+  179	The Radix Sort
+  181	The Tim Sort
+  194	Summary
+195	Trees
+  195	Objectives
+  195	What is Tree?
+    198	Vocabularies and Definitions of Tree
+    199	Tree Representation
+    203	Parse Tree
+    204	Tree Traversals
+  211	Binary Heap
+    211	The Binary Heap Abstract Data Type
+    212	Implementing a Binay Heap in Rust
+    219	Analysis of Binary Heap
+  219	Binary Search Tree
+    219	The Binary Search Tree Abstract Data Type
+    220	Implementing a Binary Search Tree in Rust
+    231	Analysis of Binary Search Tree
+  231	Balanced Binary Search Tree
+    232	AVL Tree
+    233	Implementing a AVL Tree in Rust
+    245	Analysis of AVL Tree
+  245	Summary
+246	Graphs
+  246	Objectives
+  246	What is Graph?
+    247	Vocabularies and Definitions of Graph
+  247	Graph Storage Format
+    248	Adjacency Matrix
+    248	Adjacency List
+  249	The Graph Abstract Data Type
+  250	Implementing a Graph in Rust
+    256	The Word Ladder Problem
+  258	Breadth First Search(BFS)
+    258	Implementing a BFS
+    267	Analysis of BFS
+    268	The Knight's Tour Problem
+  273	Depth First Search(DFS)
+    275	Implementing a DFS
+    278	Analysis of DFS
+    278	Topological Sorting
+  285	Strongly Connected Components
+    287	The BFS Strongly Connected Components Algorithm
+    291	The DFS Strongly Connected Components Algorithm
+  293	Shortest Path Problem
+    294	Dijkstra's Algorithm
+    294	Implementing the Dijkstra's Algorithm
+    297	Analysis of Dijkstra's Algorithm
+  297	Summary
+298	Practices
+  298	Objectives
+  298	Edit Distance
+    298	The Hammig Distance
+    300	The Levenshtein Distance
+  305	Trie
+  307	Filters
+    307	The Bloom Filter
+    311	The Cuckoo Filter
+  315	Least Recently Used(LRU) Algorithm
+  320	Consistent Hashing
+  325	Base58 Encode and Decode
+  331	Blockchain
+    331	The Principles of Blockchain and Bitcoin
+    332	A Primary Blockchain
+  336	Summary

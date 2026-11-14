@@ -1,0 +1,887 @@
+[
+ [
+  1,
+  "Preface",
+  3
+ ],
+ [
+  1,
+  "Rust Basic",
+  10
+ ],
+ [
+  2,
+  "Objectives",
+  10
+ ],
+ [
+  2,
+  "Install Rust and its Toolchain",
+  10
+ ],
+ [
+  2,
+  "Learning Resources",
+  11
+ ],
+ [
+  3,
+  "Books and Documents",
+  11
+ ],
+ [
+  3,
+  "Related Topics",
+  11
+ ],
+ [
+  3,
+  "Community and Blogs",
+  11
+ ],
+ [
+  2,
+  "Review",
+  12
+ ],
+ [
+  3,
+  "The History of Rust",
+  12
+ ],
+ [
+  3,
+  "Keywords, Comments, Naming conventions",
+  13
+ ],
+ [
+  3,
+  "Constants, Variables, Data Type",
+  15
+ ],
+ [
+  3,
+  "Statement, Expression, Computors and Flow Control",
+  19
+ ],
+ [
+  3,
+  "Function, Program Structure",
+  22
+ ],
+ [
+  3,
+  "Ownership, Scope, Lifetime",
+  24
+ ],
+ [
+  3,
+  "Generic, Trait",
+  28
+ ],
+ [
+  3,
+  "Enum and Match",
+  30
+ ],
+ [
+  3,
+  "Functional Programming",
+  32
+ ],
+ [
+  3,
+  "Smart Pointer",
+  35
+ ],
+ [
+  3,
+  "Exception",
+  41
+ ],
+ [
+  3,
+  "Macro",
+  43
+ ],
+ [
+  3,
+  "Code Organization and Dependency",
+  44
+ ],
+ [
+  3,
+  "Project: a password generator",
+  46
+ ],
+ [
+  2,
+  "Summary",
+  53
+ ],
+ [
+  1,
+  "Computer Science",
+  54
+ ],
+ [
+  2,
+  "Objectives",
+  54
+ ],
+ [
+  2,
+  "Getting Started",
+  54
+ ],
+ [
+  2,
+  "What is Computer Science?",
+  54
+ ],
+ [
+  2,
+  "What is Programming?",
+  55
+ ],
+ [
+  2,
+  "Why Study Data Structures and Abstract Data Types?",
+  56
+ ],
+ [
+  2,
+  "Why Study Algorithms?",
+  56
+ ],
+ [
+  2,
+  "Summary",
+  57
+ ],
+ [
+  1,
+  "Algorithm Analysis",
+  58
+ ],
+ [
+  2,
+  "Objectives",
+  58
+ ],
+ [
+  2,
+  "What is Algorithm Analysis?",
+  58
+ ],
+ [
+  2,
+  "Big-O Notation Analysis",
+  60
+ ],
+ [
+  2,
+  "Anagram Detection",
+  63
+ ],
+ [
+  3,
+  "Brute Force",
+  63
+ ],
+ [
+  3,
+  "Checking Off",
+  63
+ ],
+ [
+  3,
+  "Sort and Compare",
+  65
+ ],
+ [
+  3,
+  "Count and Compare",
+  66
+ ],
+ [
+  2,
+  "Performance of Rust Data Structures",
+  67
+ ],
+ [
+  3,
+  "Scalar and Complex Data Structures",
+  67
+ ],
+ [
+  3,
+  "Collection Data Structures",
+  67
+ ],
+ [
+  2,
+  "Summary",
+  68
+ ],
+ [
+  1,
+  "Basic Data Structures",
+  69
+ ],
+ [
+  2,
+  "Objectives",
+  69
+ ],
+ [
+  2,
+  "Linear Structures",
+  69
+ ],
+ [
+  2,
+  "Stack",
+  69
+ ],
+ [
+  3,
+  "The Stack Abstract Data Type",
+  71
+ ],
+ [
+  3,
+  "Implemeting a Stack in Rust",
+  71
+ ],
+ [
+  3,
+  "Simple Balanced Parentheses",
+  75
+ ],
+ [
+  3,
+  "Converting Decimal Numbers to Binary Numbers",
+  79
+ ],
+ [
+  3,
+  "Prefix, Infix, Postfix Expressions",
+  81
+ ],
+ [
+  3,
+  "Conversion of Infix Expressions to Prefix and Postfix",
+  83
+ ],
+ [
+  2,
+  "Queue",
+  89
+ ],
+ [
+  3,
+  "The Queue Abstract Data Type",
+  89
+ ],
+ [
+  3,
+  "Implementing a Queue in Rust",
+  90
+ ],
+ [
+  3,
+  "Hot Potato",
+  93
+ ],
+ [
+  2,
+  "Deque",
+  94
+ ],
+ [
+  3,
+  "The Deque Abstract Data Type",
+  95
+ ],
+ [
+  3,
+  "Implementing a Deque in Rust",
+  96
+ ],
+ [
+  3,
+  "Palindrome Checker",
+  100
+ ],
+ [
+  2,
+  "LinkedList",
+  101
+ ],
+ [
+  3,
+  "The LinkedList Abstract Data Type",
+  101
+ ],
+ [
+  3,
+  "Implementing a LinkedList in Rust",
+  102
+ ],
+ [
+  3,
+  "LinkedList Stack",
+  106
+ ],
+ [
+  2,
+  "Vec",
+  110
+ ],
+ [
+  3,
+  "The Vec Abstract Data Type",
+  110
+ ],
+ [
+  3,
+  "Implementing a Vec in Rust",
+  110
+ ],
+ [
+  2,
+  "Summary",
+  116
+ ],
+ [
+  1,
+  "Recursion",
+  117
+ ],
+ [
+  2,
+  "Objectives",
+  117
+ ],
+ [
+  2,
+  "What is Recursion?",
+  117
+ ],
+ [
+  3,
+  "The Three Laws of Recursion",
+  119
+ ],
+ [
+  3,
+  "Converting an Integer to a String in Any Base",
+  120
+ ],
+ [
+  3,
+  "Tower of Hanoi",
+  122
+ ],
+ [
+  2,
+  "Tail Recursion",
+  123
+ ],
+ [
+  3,
+  "Recursion VS Iteration",
+  124
+ ],
+ [
+  2,
+  "Dynamic Programming",
+  125
+ ],
+ [
+  3,
+  "What is Dynamic Programming?",
+  128
+ ],
+ [
+  3,
+  "Dynamic Programming VS Recursion",
+  130
+ ],
+ [
+  2,
+  "Summary",
+  131
+ ],
+ [
+  1,
+  "Searching",
+  132
+ ],
+ [
+  2,
+  "Objectives",
+  132
+ ],
+ [
+  2,
+  "What is Searching?",
+  132
+ ],
+ [
+  2,
+  "The Sequential Search",
+  132
+ ],
+ [
+  3,
+  "Implementing an Sequential Search in Rust",
+  133
+ ],
+ [
+  3,
+  "Analysis of Sequential Search",
+  134
+ ],
+ [
+  2,
+  "The Binary Search",
+  136
+ ],
+ [
+  3,
+  "Implementing a Binary Search",
+  136
+ ],
+ [
+  3,
+  "Analysis of Binary Search",
+  138
+ ],
+ [
+  3,
+  "The Interpolation Search",
+  139
+ ],
+ [
+  3,
+  "The Exponential Search",
+  140
+ ],
+ [
+  2,
+  "The Hash Search",
+  141
+ ],
+ [
+  3,
+  "Hash Functions",
+  142
+ ],
+ [
+  3,
+  "Collison Resolution",
+  144
+ ],
+ [
+  3,
+  "Implementing a HashMap in Rust",
+  146
+ ],
+ [
+  3,
+  "Analysis of HashMap",
+  152
+ ],
+ [
+  2,
+  "Summary",
+  153
+ ],
+ [
+  1,
+  "Sorting",
+  154
+ ],
+ [
+  2,
+  "Objectives",
+  154
+ ],
+ [
+  2,
+  "What is Sorting?",
+  154
+ ],
+ [
+  2,
+  "The Bubble Sort",
+  155
+ ],
+ [
+  2,
+  "The Quick Sort",
+  160
+ ],
+ [
+  2,
+  "The Insertion Sort",
+  164
+ ],
+ [
+  2,
+  "The Shell Sort",
+  167
+ ],
+ [
+  2,
+  "The Merge Sort",
+  168
+ ],
+ [
+  2,
+  "The Selection Sort",
+  171
+ ],
+ [
+  2,
+  "The Heap Sort",
+  172
+ ],
+ [
+  2,
+  "The Bucket Sort",
+  175
+ ],
+ [
+  2,
+  "The Counting Sort",
+  178
+ ],
+ [
+  2,
+  "The Radix Sort",
+  179
+ ],
+ [
+  2,
+  "The Tim Sort",
+  181
+ ],
+ [
+  2,
+  "Summary",
+  194
+ ],
+ [
+  1,
+  "Trees",
+  195
+ ],
+ [
+  2,
+  "Objectives",
+  195
+ ],
+ [
+  2,
+  "What is Tree?",
+  195
+ ],
+ [
+  3,
+  "Vocabularies and Definitions of Tree",
+  198
+ ],
+ [
+  3,
+  "Tree Representation",
+  199
+ ],
+ [
+  3,
+  "Parse Tree",
+  203
+ ],
+ [
+  3,
+  "Tree Traversals",
+  204
+ ],
+ [
+  2,
+  "Binary Heap",
+  211
+ ],
+ [
+  3,
+  "The Binary Heap Abstract Data Type",
+  211
+ ],
+ [
+  3,
+  "Implementing a Binay Heap in Rust",
+  212
+ ],
+ [
+  3,
+  "Analysis of Binary Heap",
+  219
+ ],
+ [
+  2,
+  "Binary Search Tree",
+  219
+ ],
+ [
+  3,
+  "The Binary Search Tree Abstract Data Type",
+  219
+ ],
+ [
+  3,
+  "Implementing a Binary Search Tree in Rust",
+  220
+ ],
+ [
+  3,
+  "Analysis of Binary Search Tree",
+  231
+ ],
+ [
+  2,
+  "Balanced Binary Search Tree",
+  231
+ ],
+ [
+  3,
+  "AVL Tree",
+  232
+ ],
+ [
+  3,
+  "Implementing a AVL Tree in Rust",
+  233
+ ],
+ [
+  3,
+  "Analysis of AVL Tree",
+  245
+ ],
+ [
+  2,
+  "Summary",
+  245
+ ],
+ [
+  1,
+  "Graphs",
+  246
+ ],
+ [
+  2,
+  "Objectives",
+  246
+ ],
+ [
+  2,
+  "What is Graph?",
+  246
+ ],
+ [
+  3,
+  "Vocabularies and Definitions of Graph",
+  247
+ ],
+ [
+  2,
+  "Graph Storage Format",
+  247
+ ],
+ [
+  3,
+  "Adjacency Matrix",
+  248
+ ],
+ [
+  3,
+  "Adjacency List",
+  248
+ ],
+ [
+  2,
+  "The Graph Abstract Data Type",
+  249
+ ],
+ [
+  2,
+  "Implementing a Graph in Rust",
+  250
+ ],
+ [
+  3,
+  "The Word Ladder Problem",
+  256
+ ],
+ [
+  2,
+  "Breadth First Search(BFS)",
+  258
+ ],
+ [
+  3,
+  "Implementing a BFS",
+  258
+ ],
+ [
+  3,
+  "Analysis of BFS",
+  267
+ ],
+ [
+  3,
+  "The Knight's Tour Problem",
+  268
+ ],
+ [
+  2,
+  "Depth First Search(DFS)",
+  273
+ ],
+ [
+  3,
+  "Implementing a DFS",
+  275
+ ],
+ [
+  3,
+  "Analysis of DFS",
+  278
+ ],
+ [
+  3,
+  "Topological Sorting",
+  278
+ ],
+ [
+  2,
+  "Strongly Connected Components",
+  285
+ ],
+ [
+  3,
+  "The BFS Strongly Connected Components Algorithm",
+  287
+ ],
+ [
+  3,
+  "The DFS Strongly Connected Components Algorithm",
+  291
+ ],
+ [
+  2,
+  "Shortest Path Problem",
+  293
+ ],
+ [
+  3,
+  "Dijkstra's Algorithm",
+  294
+ ],
+ [
+  3,
+  "Implementing the Dijkstra's Algorithm",
+  294
+ ],
+ [
+  3,
+  "Analysis of Dijkstra's Algorithm",
+  297
+ ],
+ [
+  2,
+  "Summary",
+  297
+ ],
+ [
+  1,
+  "Practices",
+  298
+ ],
+ [
+  2,
+  "Objectives",
+  298
+ ],
+ [
+  2,
+  "Edit Distance",
+  298
+ ],
+ [
+  3,
+  "The Hammig Distance",
+  298
+ ],
+ [
+  3,
+  "The Levenshtein Distance",
+  300
+ ],
+ [
+  2,
+  "Trie",
+  305
+ ],
+ [
+  2,
+  "Filters",
+  307
+ ],
+ [
+  3,
+  "The Bloom Filter",
+  307
+ ],
+ [
+  3,
+  "The Cuckoo Filter",
+  311
+ ],
+ [
+  2,
+  "Least Recently Used(LRU) Algorithm",
+  315
+ ],
+ [
+  2,
+  "Consistent Hashing",
+  320
+ ],
+ [
+  2,
+  "Base58 Encode and Decode",
+  325
+ ],
+ [
+  2,
+  "Blockchain",
+  331
+ ],
+ [
+  3,
+  "The Principles of Blockchain and Bitcoin",
+  331
+ ],
+ [
+  3,
+  "A Primary Blockchain",
+  332
+ ],
+ [
+  2,
+  "Summary",
+  336
+ ]
+]
