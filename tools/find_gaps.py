@@ -9,6 +9,7 @@ import re
 import sys
 
 CODE_RE = re.compile(r"^```(\w*)\s*$")
+HTML_COMMENT = re.compile(r"<!--.*?-->", re.S)
 EN_WORD = re.compile(
     r"\b(the|and|of|to|is|are|that|this|with|for|from|which|can|will|when|"
     r"there|their|its|not|but|has|been|was|were|we|our|it|as|be|by|on|"
@@ -16,7 +17,8 @@ EN_WORD = re.compile(
 
 
 def blocks(path):
-    lines = open(path, encoding="utf-8").read().split("\n")
+    text = HTML_COMMENT.sub("", open(path, encoding="utf-8").read())
+    lines = text.split("\n")
     out = []
     i = 0
     n = len(lines)

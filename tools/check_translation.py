@@ -13,10 +13,14 @@ import re
 import sys
 
 
+HTML_COMMENT = re.compile(r"<!--.*?-->", re.S)
+
+
 def parse(path):
     """Split a Markdown file into (kind, payload) blocks."""
     with open(path, encoding="utf-8") as f:
         text = f.read()
+    text = HTML_COMMENT.sub("", text)
     lines = text.split("\n")
     blocks = []
     images = []

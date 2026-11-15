@@ -1,3 +1,9 @@
+<!--
+  Файл изменён по сравнению с оригиналом проекта QMHTMY/RustBook:
+  текст переведён на русский язык. Лицензия: Apache License 2.0.
+  Оригинал: https://github.com/QMHTMY/RustBook
+-->
+
 # Решение задач алгоритмами и структурами данных на Rust
 
 ### Русское издание
@@ -217,6 +223,11 @@ Using Rust* ([QMHTMY/RustBook](https://github.com/QMHTMY/RustBook)).
 
 <a id="preface"></a>
 
+<!--
+  Файл изменён по сравнению с оригиналом проекта QMHTMY/RustBook:
+  текст переведён на русский язык. Лицензия: Apache License 2.0.
+  Оригинал: https://github.com/QMHTMY/RustBook
+-->
 Решение задач с помощью алгоритмов и структур данных на Rust Shieber 2023.03.28
 
 # Предисловие
@@ -255,6 +266,11 @@ S h i e b e r
 
 <a id="ch01"></a>
 
+<!--
+  Файл изменён по сравнению с оригиналом проекта QMHTMY/RustBook:
+  текст переведён на русский язык. Лицензия: Apache License 2.0.
+  Оригинал: https://github.com/QMHTMY/RustBook
+-->
 # Глава 1. Основы Rust
 
 <a id="ch01-1-1-цели"></a>
@@ -2577,6 +2593,11 @@ fn main() -> Result<()> {
 
 <a id="ch02"></a>
 
+<!--
+  Файл изменён по сравнению с оригиналом проекта QMHTMY/RustBook:
+  текст переведён на русский язык. Лицензия: Apache License 2.0.
+  Оригинал: https://github.com/QMHTMY/RustBook
+-->
 # Информатика
 
 <a id="ch02-2-1-цели"></a>
@@ -2658,6 +2679,11 @@ fn main() {
 
 <a id="ch03"></a>
 
+<!--
+  Файл изменён по сравнению с оригиналом проекта QMHTMY/RustBook:
+  текст переведён на русский язык. Лицензия: Apache License 2.0.
+  Оригинал: https://github.com/QMHTMY/RustBook
+-->
 # Анализ алгоритмов
 
 <a id="ch03-3-1-цели"></a>
@@ -3081,6 +3107,11 @@ for month in months { monthsv.push(month); }
 
 <a id="ch04"></a>
 
+<!--
+  Файл изменён по сравнению с оригиналом проекта QMHTMY/RustBook:
+  текст переведён на русский язык. Лицензия: Apache License 2.0.
+  Оригинал: https://github.com/QMHTMY/RustBook
+-->
 # Глава 4. Базовые структуры данных
 
 <a id="ch04-4-1-цели"></a>
@@ -5234,6 +5265,11 @@ Empty lvec
 
 <a id="ch05"></a>
 
+<!--
+  Файл изменён по сравнению с оригиналом проекта QMHTMY/RustBook:
+  текст переведён на русский язык. Лицензия: Apache License 2.0.
+  Оригинал: https://github.com/QMHTMY/RustBook
+-->
 # Рекурсия
 
 <a id="ch05-5-1-цели"></a>
@@ -5822,6 +5858,11 @@ fn main() {
 
 <a id="ch06"></a>
 
+<!--
+  Файл изменён по сравнению с оригиналом проекта QMHTMY/RustBook:
+  текст переведён на русский язык. Лицензия: Apache License 2.0.
+  Оригинал: https://github.com/QMHTMY/RustBook
+-->
 # Поиск
 
 <a id="ch06-6-1-цели"></a>
@@ -6740,6 +6781,11 @@ val: fish
 
 <a id="ch07"></a>
 
+<!--
+  Файл изменён по сравнению с оригиналом проекта QMHTMY/RustBook:
+  текст переведён на русский язык. Лицензия: Apache License 2.0.
+  Оригинал: https://github.com/QMHTMY/RustBook
+-->
 # Сортировка
 
 <a id="ch07-7-1-цели"></a>
@@ -8453,6 +8499,11 @@ sorted nums: [-1, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 
 <a id="ch08"></a>
 
+<!--
+  Файл изменён по сравнению с оригиналом проекта QMHTMY/RustBook:
+  текст переведён на русский язык. Лицензия: Apache License 2.0.
+  Оригинал: https://github.com/QMHTMY/RustBook
+-->
 # Деревья
 
 <a id="ch08-8-1-цели"></a>
@@ -10733,6 +10784,11 @@ key: 4
 
 <a id="ch09"></a>
 
+<!--
+  Файл изменён по сравнению с оригиналом проекта QMHTMY/RustBook:
+  текст переведён на русский язык. Лицензия: Apache License 2.0.
+  Оригинал: https://github.com/QMHTMY/RustBook
+-->
 # Графы
 
 <a id="ch09-9-1-цели"></a>
@@ -13172,6 +13228,11 @@ V1-V4, min distance: 7
 
 <a id="ch10"></a>
 
+<!--
+  Файл изменён по сравнению с оригиналом проекта QMHTMY/RustBook:
+  текст переведён на русский язык. Лицензия: Apache License 2.0.
+  Оригинал: https://github.com/QMHTMY/RustBook
+-->
 # Практика
 
 <a id="ch10-10-1-цели"></a>
