@@ -15,3 +15,12 @@
 *.gif binary
 *.pdf binary
 *.shieber binary
+
+# GitHub language statistics: keep Rust sources at the top of the bar.
+# Build artefacts of the book (HTML, PDF, extracted texts) — generated.
+ru/build/**    linguist-generated
+ru/source/**   linguist-generated
+# Vendored original project (PDF editions, original code) — not ours.
+original/**    linguist-vendored
+# PDF editions — documentation, not code.
+*.pdf          linguist-documentation
