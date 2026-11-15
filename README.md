@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="ru/assets/cover-ru.png" alt="Обложка" width="340"/>
+<img src="ru/assets/cover-ru-published.png" alt="Обложка — Структуры данных и алгоритмы (Описание на языке Rust)" width="340"/>
 
 # RustBook RU
 
